@@ -129,7 +129,7 @@ Through this project, I improved my skills in:
 
 # Author
 
-Anmol Roy
+Anmol Ray
 
 Aspiring Data Analyst  
 Learning Excel, SQL, Power BI & Python
